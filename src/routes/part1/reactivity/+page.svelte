@@ -13,7 +13,7 @@
 <p>numbers is {numbers}</p>
 
 <script>
-    import Nested from "./nested.svelte";
+    import Nested from "./Nested.svelte";
 
     let name = 'SvelteKit'
     let src = "/favicon.png"
