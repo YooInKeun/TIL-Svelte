@@ -1,5 +1,5 @@
 <script>
-    import Nested from "./nested.svelte";
+    import Nested from "./Nested.svelte";
     import PacakgeInfo from "./PacakgeInfo.svelte";
 
     const pkg = {

@@ -5,3 +5,5 @@
 <a href="/part1/props">Part1 Props</a>
 <br>
 <a href="/part1/logic">Part1 Logic</a>
+<br>
+<a href="/part1/dom-events">Part1 Dom Events</a>
