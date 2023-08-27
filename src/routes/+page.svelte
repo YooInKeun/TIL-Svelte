@@ -7,3 +7,5 @@
 <a href="/part1/logic">Part1 Logic</a>
 <br>
 <a href="/part1/dom-events">Part1 Dom Events</a>
+<br>
+<a href="/part1/bindings">Part1 Bindings</a>
