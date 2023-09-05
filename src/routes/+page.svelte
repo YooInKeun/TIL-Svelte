@@ -9,3 +9,5 @@
 <a href="/part1/dom-events">Part1 Dom Events</a>
 <br>
 <a href="/part1/bindings">Part1 Bindings</a>
+<br>
+<a href="/part1/life-cycle">Part1 Lifecycle</a>
