@@ -11,3 +11,5 @@
 <a href="/part1/bindings">Part1 Bindings</a>
 <br>
 <a href="/part1/life-cycle">Part1 Lifecycle</a>
+<br>
+<a href="/part1/stores">Part1 Stores</a>
